@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable-v24/background_layout_result_false.xml" value="0.28489583333333335" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable-v24/background_textview_question_kind_3_clicked.xml" value="0.2890625" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable-v24/background_textview_question_kind_3_false.xml" value="0.2890625" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable-v24/ic_baseline_checklist_2.xml" value="0.2890625" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable/animation_speak.xml" value="1.01875" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable/backgound_button.xml" value="1.0785714285714285" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable/backgound_button_result.xml" value="0.15729166666666666" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable/background_bottom_nav.xml" value="0.2890625" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable/background_button_speak.xml" value="0.19537037037037036" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable/background_image_choose_picture.xml" value="0.2890625" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable/background_image_choose_picture_clicked.xml" value="0.2890625" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable/background_item_home.xml" value="0.2890625" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable/background_layout_result.xml" value="0.2759259259259259" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable/background_layout_result_false.xml" value="0.28489583333333335" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable/background_progressbar.xml" value="0.2890625" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable/background_textview_question_kind_3.xml" value="0.3490740740740741" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable/background_textview_question_kind_3_clicked.xml" value="0.2890625" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable/background_textview_question_kind_3_false.xml" value="0.2890625" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable/background_view.xml" value="0.2846153846153846" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable/bg_button_green.xml" value="0.2890625" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable/book.xml" value="0.2890625" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable/calendar.xml" value="0.2890625" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable/circularprogressbar.xml" value="0.2890625" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable/close.xml" value="0.28854166666666664" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable/foreground_image.xml" value="0.2890625" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable/ic_baseline_checklist_2.xml" value="0.2890625" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable/ic_baseline_checklist_24.xml" value="0.2890625" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.2890625" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2890625" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable/nav_item_select.xml" value="0.2890625" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable/repeat.xml" value="0.2890625" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable/ripple_click.xml" value="0.2846153846153846" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable/speak.xml" value="0.2890625" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable/speak_black.xml" value="0.28489583333333335" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/drawable/transition_clicked.xml" value="0.2890625" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/layout/activity_login.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/layout/activity_question.xml" value="0.22" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/layout/activity_result.xml" value="0.25" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/layout/activity_splash.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/layout/activity_study_word.xml" value="0.22" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/layout/design_bottom_navigation_item.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/layout/fragment_home.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/layout/fragment_kind_3.xml" value="0.27219202898550726" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/layout/fragment_learn_by_card.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/layout/fragment_practice.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/layout/fragment_question_choose_picture.xml" value="0.25" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/layout/fragment_question_kind_1.xml" value="0.33" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/layout/fragment_question_kind_2.xml" value="0.25815217391304346" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/layout/fragment_question_kind_3.xml" value="0.25" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/layout/fragment_question_kind_objective_fill_sentence.xml" value="0.22" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/layout/fragment_question_study_kind_1.xml" value="0.22" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/layout/fragment_result_answer.xml" value="0.27219202898550726" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/layout/fragment_study.xml" value="0.2708333333333333" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/layout/home_search_query_section.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/layout/item_of_list_post.xml" value="0.2708333333333333" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/layout/item_of_list_question3.xml" value="0.24864130434782608" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/layout/item_of_list_question_kind_3.xml" value="0.45465994962216627" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/layout/item_word_ressult.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/layout/layout_temp.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/layout/sample_fqk3.xml" value="0.22" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/layout/viewpager_five_zhitou_first.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/layout/viewpager_five_zhitou_first_huadong.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/layout/viewpager_step1.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/layout/viewpager_step2.xml" value="0.27291666666666664" />
+        <entry key="..\:/Android/projectKot/KLTNStudyWord/app/src/main/res/menu/bottom_nav_menu.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/account.xml" value="0.271" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/back.xml" value="0.176" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/backgound_button.xml" value="0.199" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/backgound_button_result.xml" value="0.199" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/background_bottom_nav.xml" value="0.199" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/background_button_next_result.xml" value="0.22" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/background_button_next_result_touched.xml" value="0.2985" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/background_button_speak.xml" value="0.2985" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/background_card_info_practice.xml" value="0.314" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/background_layout_result_false.xml" value="0.2985" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/background_layout_result_true.xml" value="0.2985" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/background_level1.xml" value="0.175" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/background_level2.xml" value="0.175" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/background_level3.xml" value="0.175" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/background_level4.xml" value="0.175" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/background_progressbar.xml" value="0.199" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/background_shadow_answer_fill_sentence.xml" value="0.2765" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/background_shadow_answer_fill_sentence_clicked.xml" value="0.2765" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/background_shadow_button.xml" value="0.2765" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/background_shadow_button_disable.xml" value="0.196" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/background_shadow_button_touched.xml" value="0.2765" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/background_spinner.xml" value="0.176" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/box_stroke_color.xml" value="0.271" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/demo_background_shadow.xml" value="0.22" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/edt_login.xml" value="0.271" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/save.xml" value="0.176" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/selector_button_shadow.xml" value="0.2985" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/setting.xml" value="0.271" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/test_background_shadow.xml" value="0.2985" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/test_background_shadow_button.xml" value="0.2985" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/test_background_shadow_button_touched.xml" value="0.2" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/test_background_shadow_card.xml" value="0.22" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/test_background_shadow_clicked.xml" value="0.2985" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/drawable/text_underline.xml" value="0.261" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/layout/activity_question.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/layout/activity_result.xml" value="0.33" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/layout/activity_study_word.xml" value="0.25" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/layout/fragment_change_profile_user.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/layout/fragment_detail_word_in_activity_result.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/layout/fragment_kind_3.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/layout/fragment_learn_by_card.xml" value="0.33" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/layout/fragment_login.xml" value="0.22" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/layout/fragment_practice.xml" value="0.25" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/layout/fragment_profile_user.xml" value="0.22" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/layout/fragment_question_choose_picture.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/layout/fragment_question_kind_1.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/layout/fragment_question_kind_2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/layout/fragment_question_kind_3.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/layout/fragment_question_kind_objective_fill_sentence.xml" value="0.33" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/layout/fragment_question_study_kind_1.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/layout/fragment_result_answer.xml" value="0.32864583333333336" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/layout/fragment_setting.xml" value="0.2" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/layout/fragment_signin.xml" value="0.2" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/layout/fragment_signup.xml" value="0.22" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/layout/fragment_study.xml" value="0.32864583333333336" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/layout/item_language_model.xml" value="0.33" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/layout/item_of_list_post.xml" value="0.32864583333333336" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/layout/item_of_list_question_kind_3.xml" value="0.32864583333333336" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/layout/item_word_ressult.xml" value="0.32864583333333336" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/layout/layout_fragment_setting.xml" value="0.22" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/layout/layout_login.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/layout/layout_temp.xml" value="0.32864583333333336" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/layout/splash_screen.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/layout/state_internet.xml" value="0.18" />
+        <entry key="..\:/Users/ThinkPad X1/Desktop/KLTN_Kotlin-master/KLTN_Kotlin-master/app/src/main/res/layout/test_shadow.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

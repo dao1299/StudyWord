@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="@string/menu_home"
+        android:id="@+id/menu_home"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/home" />
+    <item
+        android:title="@string/menu_study"
+        android:id="@+id/menu_study"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/book" />
+    <item
+        android:title="@string/menu_practice"
+        app:showAsAction="ifRoom"
+        android:id="@+id/menu_practice"
+        android:icon="@drawable/repeat" />
+    <item
+        android:title="Setting"
+        app:showAsAction="ifRoom"
+        android:id="@+id/menu_setting"
+        android:icon="@drawable/setting" />
+</menu>

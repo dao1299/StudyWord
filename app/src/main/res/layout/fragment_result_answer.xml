@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:background="#59d18c"
+    android:weightSum="6"
+    android:paddingStart="24dp"
+    android:paddingEnd="24dp"
+    android:paddingTop="6dp"
+    android:paddingBottom="24dp"
+    android:orientation="vertical"
+    android:layout_height="250dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.8"
+        android:text="Destination"
+        android:fontFamily="@font/font_van"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:gravity="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.8"
+        android:text="Dich den, dia diem can toi"
+        android:fontFamily="@font/font_van"
+        android:textColor="#fff"
+        android:textSize="16sp"
+        android:gravity="center"
+        />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.4"/>
+    <TextView
+        android:fontFamily="@font/font_van"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:textColor="#59d18c"
+        android:textSize="20sp"
+        android:textAllCaps="true"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_weight="2"
+        android:foreground="?attr/selectableItemBackground"
+        android:background="@drawable/backgound_button_result"
+        android:text="Tiếp tục" />
+</LinearLayout>

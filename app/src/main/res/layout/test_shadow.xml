@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView
+        android:layout_marginTop="10dp"
+        android:id="@+id/btnClickTestShadow"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        app:layout_constraintStart_toStartOf="parent"
+        android:fontFamily="@font/font_van"
+        android:background="@drawable/background_shadow_button"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:translationZ="10dp"
+        android:elevation="5dp"
+        android:text="Mission"
+        android:letterSpacing="0.07"
+        android:textSize="25sp"
+        android:gravity="center"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"/>
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        app:layout_constraintStart_toStartOf="parent"
+        android:fontFamily="@font/font_van"
+        android:background="@drawable/background_shadow_button_touched"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:translationZ="10dp"
+        android:elevation="5dp"
+        android:text="Mission"
+        android:letterSpacing="0.07"
+        android:textSize="25sp"
+        android:gravity="center"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"/>
+
+</LinearLayout>

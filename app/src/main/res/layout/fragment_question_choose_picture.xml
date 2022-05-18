@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:weightSum="100">
+
+    <TextView
+        android:id="@+id/txtTypeOfQuestion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:fontFamily="@font/font_van"
+        android:text="Choose the right image"
+        android:textAlignment="center"
+        android:textColor="@color/purple_200"
+        android:textSize="35sp"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/txtKeyWordChoosePicture"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="16"
+        android:letterSpacing="0.05"
+        android:fontFamily="@font/font_van"
+        android:gravity="center"
+        android:text="Vertical"
+        android:textColor="@color/purple_200"
+        android:textSize="28sp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="4" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="37"
+        android:orientation="horizontal"
+        android:weightSum="17">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardImg1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:foreground="@drawable/background_image_choose_picture"
+            android:layout_weight="8"
+            app:cardCornerRadius="20dp"
+            >
+            <ImageView
+                android:id="@+id/imgAnswer1"
+                android:src="@drawable/as"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:adjustViewBounds="true"
+                android:cropToPadding="true"
+                app:cardCornerRadius="20dp"
+                android:scaleType="fitXY"
+                android:clickable="true"
+                android:elevation="8dp"
+                android:gravity="center"
+                android:translationZ="5dp" />
+        </androidx.cardview.widget.CardView>
+
+<!--        <ImageView-->
+<!--            android:id="@+id/imgAnswer1"-->
+<!--            android:src="@drawable/as"-->
+<!--            android:layout_width="0dp"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:layout_weight="8"-->
+<!--            android:adjustViewBounds="true"-->
+<!--            android:cropToPadding="true"-->
+<!--            android:padding="2dp"-->
+<!--            android:scaleType="fitXY"-->
+<!--            android:foreground="@drawable/background_image_choose_picture"-->
+<!--            android:clickable="true"-->
+<!--            android:elevation="8dp"-->
+<!--            android:gravity="center"-->
+<!--            android:translationZ="5dp" />-->
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardImg2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:foreground="@drawable/background_image_choose_picture"
+            android:layout_weight="8"
+            app:cardCornerRadius="20dp"
+            >
+            <ImageView
+                android:id="@+id/imgAnswer2"
+                android:src="@drawable/as"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:adjustViewBounds="true"
+                android:cropToPadding="true"
+                app:cardCornerRadius="20dp"
+                android:scaleType="fitXY"
+                android:clickable="true"
+                android:elevation="8dp"
+                android:gravity="center"
+                android:translationZ="5dp" />
+        </androidx.cardview.widget.CardView>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="37"
+        android:orientation="horizontal"
+        android:weightSum="17">
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardImg3"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:foreground="@drawable/background_image_choose_picture"
+            android:layout_weight="8"
+            app:cardCornerRadius="20dp"
+            >
+            <ImageView
+                android:id="@+id/imgAnswer3"
+                android:src="@drawable/as"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:adjustViewBounds="true"
+                android:cropToPadding="true"
+                app:cardCornerRadius="20dp"
+                android:scaleType="fitXY"
+                android:clickable="true"
+                android:elevation="8dp"
+                android:gravity="center"
+                android:translationZ="5dp" />
+        </androidx.cardview.widget.CardView>
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardImg4"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:foreground="@drawable/foreground_image"
+            android:layout_weight="8"
+            app:cardCornerRadius="20dp"
+            >
+            <ImageView
+                android:id="@+id/imgAnswer4"
+                android:src="@drawable/as"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:adjustViewBounds="true"
+                android:cropToPadding="true"
+                app:cardCornerRadius="20dp"
+                android:scaleType="fitXY"
+                android:clickable="true"
+                android:elevation="8dp"
+                android:gravity="center"
+                android:translationZ="5dp" />
+        </androidx.cardview.widget.CardView>
+    </LinearLayout>
+</LinearLayout>
